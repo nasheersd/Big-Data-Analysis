@@ -11,7 +11,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-##Project Description: Performing Big Data Analysis Using PySpark in Google Colab on a Customer Dataset
+##**Project Description**: Performing Big Data Analysis Using PySpark in Google Colab on a Customer Dataset
 
 In today’s data-driven world, organizations rely heavily on big data technologies to manage, process, and analyze massive volumes of data efficiently. This project, titled “Performing Big Data Analysis Using the Tools of PySpark in Google Colab on a Customer Dataset,” focuses on utilizing the capabilities of Apache Spark through PySpark, a Python-based API, to perform comprehensive data analysis on customer data. The primary objective of this project is to demonstrate how big data tools can handle, process, and extract meaningful insights from large datasets efficiently.
 
